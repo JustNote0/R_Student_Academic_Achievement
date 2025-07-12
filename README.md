@@ -3,7 +3,7 @@
 
 > This project aims to classify student academic achievement levels based on academic and demographic variables. Built using R, the study compares LDA and ordinal logistic regression to identify the more effective classification model.
 
-📌 **Published** → [View on RPubs](https://rpubs.com/Shoba02/kelompok1_UAS_AnMul)  
+📌 **Published** → [View on RPubs](https://rpubs.com/Shoba/1329223)  
 📊 **Dataset** → [Kaggle: Student Performance Data](https://www.kaggle.com/datasets/larsen0966/student-performance-data-set)
 
 ---
