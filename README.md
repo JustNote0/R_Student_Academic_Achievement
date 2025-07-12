@@ -1,4 +1,4 @@
-a# 🎓 Student Academic Performance Classification  
+# 🎓 Student Academic Performance Classification  
 **Comparing Linear Discriminant Analysis (LDA) and Ordinal Logistic Regression**
 
 > This project aims to classify student academic achievement levels based on academic and demographic variables. Built using R, the study compares LDA and ordinal logistic regression to identify the more effective classification model.
